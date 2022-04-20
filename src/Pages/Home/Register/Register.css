@@ -1,0 +1,6 @@
+.register-container input{
+    display: block;
+    width: 100%;
+    margin-top: 15px;
+    height: 50px;
+}
